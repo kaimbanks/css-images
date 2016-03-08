@@ -1,6 +1,7 @@
 /*your custom CSS here*/
-
-
-img {
-	max-width: 100%;
+.headImg {
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	border: 20px solid #003466;
 }
